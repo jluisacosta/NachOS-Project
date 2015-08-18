@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/sob/!svn/ver/169/nachos3/filesys
+END
+filehdr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/sob/!svn/ver/169/nachos3/filesys/filehdr.cc
+END
+filesys.cc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/sob/!svn/ver/165/nachos3/filesys/filesys.cc
+END
+filehdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/sob/!svn/ver/169/nachos3/filesys/filehdr.h
+END
+synchdisk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/sob/!svn/ver/1/nachos3/filesys/synchdisk.cc
+END
+filesys.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/sob/!svn/ver/165/nachos3/filesys/filesys.h
+END
+openfile.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/sob/!svn/ver/122/nachos3/filesys/openfile.cc
+END
+synchdisk.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/sob/!svn/ver/1/nachos3/filesys/synchdisk.h
+END
+openfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/sob/!svn/ver/96/nachos3/filesys/openfile.h
+END
+directory.cc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/sob/!svn/ver/127/nachos3/filesys/directory.cc
+END
+directory.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/sob/!svn/ver/127/nachos3/filesys/directory.h
+END
+fstest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/sob/!svn/ver/122/nachos3/filesys/fstest.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/sob/!svn/ver/165/nachos3/filesys/Makefile
+END

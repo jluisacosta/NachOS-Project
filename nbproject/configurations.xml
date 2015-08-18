@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="84">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df name="nachos3" root=".">
+      <df name="bin">
+        <in>coff.h</in>
+        <in>coff2flat.c</in>
+        <in>coff2noff.c</in>
+        <in>d.c</in>
+        <in>disasm.c</in>
+        <in>encode.h</in>
+        <in>execute.c</in>
+        <in>instr.h</in>
+        <in>int.h</in>
+        <in>main.c</in>
+        <in>noff.h</in>
+        <in>opstrings.c</in>
+        <in>out.c</in>
+        <in>system.c</in>
+      </df>
+      <df name="filesys">
+        <df name="test">
+        </df>
+        <in>directory.cc</in>
+        <in>directory.h</in>
+        <in>filehdr.cc</in>
+        <in>filehdr.h</in>
+        <in>filesys.cc</in>
+        <in>filesys.h</in>
+        <in>fstest.cc</in>
+        <in>openfile.cc</in>
+        <in>openfile.h</in>
+        <in>swtch.s</in>
+        <in>synchdisk.cc</in>
+        <in>synchdisk.h</in>
+      </df>
+      <df name="machine">
+        <in>console.cc</in>
+        <in>console.h</in>
+        <in>disk.cc</in>
+        <in>disk.h</in>
+        <in>interrupt.cc</in>
+        <in>interrupt.h</in>
+        <in>machine.cc</in>
+        <in>machine.h</in>
+        <in>mipssim.cc</in>
+        <in>mipssim.h</in>
+        <in>network.cc</in>
+        <in>network.h</in>
+        <in>stats.cc</in>
+        <in>stats.h</in>
+        <in>sysdep.cc</in>
+        <in>sysdep.h</in>
+        <in>timer.cc</in>
+        <in>timer.h</in>
+        <in>translate.cc</in>
+        <in>translate.h</in>
+      </df>
+      <df name="network">
+        <in>nettest.cc</in>
+        <in>post.cc</in>
+        <in>post.h</in>
+        <in>swtch.s</in>
+      </df>
+      <df name="test">
+        <in>halt.c</in>
+        <in>matmult.c</in>
+        <in>shell.c</in>
+        <in>sort.c</in>
+        <in>start.s</in>
+      </df>
+      <df name="threads">
+        <in>copyright.h</in>
+        <in>list.cc</in>
+        <in>list.h</in>
+        <in>main.cc</in>
+        <in>scheduler.cc</in>
+        <in>scheduler.h</in>
+        <in>switch.h</in>
+        <in>switch.s</in>
+        <in>swtch.s</in>
+        <in>synch.cc</in>
+        <in>synch.h</in>
+        <in>synchlist.cc</in>
+        <in>synchlist.h</in>
+        <in>system.cc</in>
+        <in>system.h</in>
+        <in>thread.cc</in>
+        <in>thread.h</in>
+        <in>threadtest.cc</in>
+        <in>utility.cc</in>
+        <in>utility.h</in>
+      </df>
+      <df name="userprog">
+        <in>addrspace.cc</in>
+        <in>addrspace.h</in>
+        <in>bitmap.cc</in>
+        <in>bitmap.h</in>
+        <in>exception.cc</in>
+        <in>progtest.cc</in>
+        <in>swtch.s</in>
+        <in>syscall.h</in>
+      </df>
+      <df name="vm">
+        <in>swtch.s</in>
+      </df>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath>bin/coff2noff</executablePath>
+          <cTool>
+            <incDir>
+              <pElem>threads</pElem>
+            </incDir>
+          </cTool>
+          <ccTool>
+            <incDir>
+              <pElem>vm</pElem>
+              <pElem>userprog</pElem>
+              <pElem>threads</pElem>
+              <pElem>bin</pElem>
+              <pElem>filesys</pElem>
+              <pElem>machine</pElem>
+              <pElem>network</pElem>
+            </incDir>
+            <preprocessorList>
+              <Elem>CHANGED</Elem>
+              <Elem>FILESYS</Elem>
+              <Elem>FILESYS_NEEDED</Elem>
+              <Elem>HOST_i386</Elem>
+              <Elem>NETWORK</Elem>
+              <Elem>USER_PROGRAM</Elem>
+              <Elem>VM</Elem>
+            </preprocessorList>
+          </ccTool>
+        </makeTool>
+      </makefileType>
+      <item path="bin/coff2flat.c" ex="true" tool="0" flavor2="0">
+      </item>
+      <item path="bin/coff2noff.c" ex="false" tool="0" flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="bin/d.c" ex="true" tool="0" flavor2="0">
+      </item>
+      <item path="bin/disasm.c" ex="true" tool="0" flavor2="0">
+      </item>
+      <item path="bin/encode.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="bin/execute.c" ex="true" tool="0" flavor2="0">
+      </item>
+      <item path="bin/instr.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="bin/int.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="bin/main.c" ex="true" tool="0" flavor2="0">
+      </item>
+      <item path="bin/opstrings.c" ex="true" tool="0" flavor2="0">
+      </item>
+      <item path="bin/out.c" ex="true" tool="0" flavor2="0">
+      </item>
+      <item path="bin/system.c" ex="true" tool="0" flavor2="0">
+      </item>
+      <folder path="nachos3/bin">
+        <cTool>
+          <incDir>
+            <pElem>bin</pElem>
+          </incDir>
+        </cTool>
+      </folder>
+      <folder path="nachos3/test">
+        <cTool>
+          <incDir>
+            <pElem>userprog</pElem>
+          </incDir>
+        </cTool>
+      </folder>
+      <item path="filesys/swtch.s" ex="true" tool="4" flavor2="0">
+      </item>
+      <item path="machine/network.cc" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="network/nettest.cc" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="network/post.cc" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="network/swtch.s" ex="true" tool="4" flavor2="0">
+      </item>
+      <item path="test/halt.c" ex="false" tool="0" flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="test/matmult.c" ex="false" tool="0" flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="test/shell.c" ex="false" tool="0" flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="test/sort.c" ex="false" tool="0" flavor2="2">
+        <cTool>
+        </cTool>
+      </item>
+      <item path="test/start.s" ex="true" tool="4" flavor2="0">
+      </item>
+      <item path="threads/main.cc" ex="false" tool="1" flavor2="4">
+        <ccTool>
+        </ccTool>
+      </item>
+      <item path="threads/switch.s" ex="true" tool="4" flavor2="0">
+      </item>
+      <item path="threads/swtch.s" ex="true" tool="4" flavor2="0">
+      </item>
+      <item path="userprog/swtch.s" ex="true" tool="4" flavor2="0">
+      </item>
+      <item path="vm/swtch.s" ex="true" tool="4" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/sob/!svn/ver/127/nachos3/machine
+END
+network.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/sob/!svn/ver/1/nachos3/machine/network.h
+END
+interrupt.cc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/sob/!svn/ver/122/nachos3/machine/interrupt.cc
+END
+disk.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/sob/!svn/ver/1/nachos3/machine/disk.h
+END
+translate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/sob/!svn/ver/96/nachos3/machine/translate.cc
+END
+stats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/sob/!svn/ver/96/nachos3/machine/stats.cc
+END
+interrupt.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/sob/!svn/ver/1/nachos3/machine/interrupt.h
+END
+translate.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/sob/!svn/ver/1/nachos3/machine/translate.h
+END
+stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/sob/!svn/ver/1/nachos3/machine/stats.h
+END
+console.cc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/sob/!svn/ver/1/nachos3/machine/console.cc
+END
+console.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/sob/!svn/ver/1/nachos3/machine/console.h
+END
+machine.cc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/sob/!svn/ver/96/nachos3/machine/machine.cc
+END
+machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/sob/!svn/ver/96/nachos3/machine/machine.h
+END
+sysdep.cc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/sob/!svn/ver/96/nachos3/machine/sysdep.cc
+END
+sysdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/sob/!svn/ver/1/nachos3/machine/sysdep.h
+END
+timer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/sob/!svn/ver/1/nachos3/machine/timer.cc
+END
+mipssim.cc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/sob/!svn/ver/96/nachos3/machine/mipssim.cc
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/sob/!svn/ver/1/nachos3/machine/timer.h
+END
+mipssim.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/sob/!svn/ver/1/nachos3/machine/mipssim.h
+END
+network.cc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/sob/!svn/ver/1/nachos3/machine/network.cc
+END
+disk.cc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/sob/!svn/ver/127/nachos3/machine/disk.cc
+END

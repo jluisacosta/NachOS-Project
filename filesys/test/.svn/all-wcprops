@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/sob/!svn/ver/1/nachos3/filesys/test
+END
+medium
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/sob/!svn/ver/1/nachos3/filesys/test/medium
+END
+big
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/sob/!svn/ver/1/nachos3/filesys/test/big
+END
+small
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/sob/!svn/ver/1/nachos3/filesys/test/small
+END
